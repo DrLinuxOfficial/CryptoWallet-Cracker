@@ -1,0 +1,1 @@
+from .Bitcoin import BTCCracker
